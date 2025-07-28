@@ -1,0 +1,19 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "educational_content"
+  },
+  "documents": [
+    {"filename": "chemistry_chapter_1.pdf", "title": "Introduction to Organic Chemistry"},
+    {"filename": "chemistry_chapter_2.pdf", "title": "Chemical Bonding and Structure"},
+    {"filename": "chemistry_chapter_3.pdf", "title": "Reaction Mechanisms"},
+    {"filename": "chemistry_chapter_4.pdf", "title": "Kinetics and Thermodynamics"},
+    {"filename": "chemistry_chapter_5.pdf", "title": "Organic Synthesis Methods"}
+  ],
+  "persona": {
+    "role": "Undergraduate Chemistry Student"
+  },
+  "job_to_be_done": {
+    "task": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002", 
+    "test_case_name": "business_analysis"
+  },
+  "documents": [
+    {"filename": "company_report_2022.pdf", "title": "Tech Company A Annual Report 2022"},
+    {"filename": "company_report_2023.pdf", "title": "Tech Company B Annual Report 2023"},
+    {"filename": "company_report_2024.pdf", "title": "Tech Company C Annual Report 2024"}
+  ],
+  "persona": {
+    "role": "Investment Analyst"
+  },
+  "job_to_be_done": {
+    "task": "Analyze revenue trends, R&D investments, and market positioning strategies"
+  }
+}
