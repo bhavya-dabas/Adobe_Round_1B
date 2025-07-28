@@ -285,12 +285,4 @@ docker run --rm \
   persona-document-analyst:latest
 ```
 
-### 📈 Quality Metrics
-
-| Metric                       | Result |
-| ---------------------------- | ------ |
-| Section Relevance Accuracy   | 92%    |
-| Importance Ranking Precision | 89%    |
-| Subsection Quality           | 88%    |
-| Processing Consistency       | 95%    |
 
